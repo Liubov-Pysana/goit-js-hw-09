@@ -1,0 +1,1 @@
+{"version":3,"file":"commonHelpers.js","sources":["../src/js/task-01.js","../src/main.js"],"sourcesContent":["export const taskTitle = 'Task 01';\n","import { taskTitle } from './js/task-01.js';\nconsole.log('Hooray, i did it');\nconsole.log(taskTitle);\n"],"names":["taskTitle"],"mappings":"ssBAAO,MAAMA,EAAY,UCCzB,QAAQ,IAAI,kBAAkB,EAC9B,QAAQ,IAAIA,CAAS"}
