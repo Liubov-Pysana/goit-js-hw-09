@@ -1,2 +1,21 @@
 @import url('./reset.css');
 @import url('./base.css');
+
+.sl-overlay {
+  background: #2e2f42;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  max-width: 80%;
+  list-style: none;
+  margin: 0 auto;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: 200px;
+}
